@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=g2\ w\ h\ c
+comment0.target=void\ getGraphics(java.awt.Graphics2D,\ int,\ int,\ java.awt.Color[])
+comment1.params=
+comment1.target=void\ drawFirst()
+numComments=2
