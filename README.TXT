@@ -1,4 +1,4 @@
-PROJECT TITLE: Visual Encryption
+#Visual-Cryptography
 PURPOSE OF PROJECT: Visually Encrypt Black and White images
 VERSION: 1.0.0
 HOW TO START THIS PROJECT: Run the Main method
