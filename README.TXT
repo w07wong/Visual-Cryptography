@@ -8,7 +8,7 @@ For this project, I used the process of visually encrypting an image by creating
 With this method it is impossible to decrypt what the image is with just one layer.  To view the complete
 picture, both transparencies will have to be on top of each other. 
 
-To generate the first layer, I simply created a random assortment of 2x2 squares.  Each 2x2 square contained
+To generate the first layer, I created a random assortment of 2x2 squares.  Each 2x2 square contained
 4 rectangles with widths and heights of 1.  The way each 2x2 square was colored in was determined by a random
 squence where either one of the two diagonals of the square would be shaded in.  For example, if the squence
 selected color scheme 0 (actually 1), then the top left and bottom right squares would be shaded in.  This 
